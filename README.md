@@ -2,18 +2,11 @@
 
 BloodBond is a life-saving platform that connects blood donors with those in urgent need. It allows users to register as donors, search for donors based on blood group and location, and seamlessly coordinate donations. Built with **Node.js, Express, MongoDB, and React**, BloodBond ensures a smooth and reliable experience.  
 
-## 🚀 Features  
-👉 **Register as a Donor** – Securely sign up and contribute to saving lives.  
-👉 **Find a Donor** – Search by blood group and location for quick assistance.  
-👉 **Real-Time Availability** – View updated donor lists from a centralized database.  
-👉 **Secure & Reliable** – Data is stored securely using **MongoDB Atlas**.  
-👉 **Fast & Responsive** – Built with **Express.js** for high performance.  
-
 ## 🛠️ Tech Stack  
-- **Backend:** Node.js, Express.js, MongoDB (Mongoose ORM)  
-- **Frontend:** React.js  
-- **Database:** MongoDB Atlas  
-- **Deployment:** Heroku / Vercel  
+- **Backend:** Node.js, Express.js
+- **Frontend:** HTML, CSS
+- **Database:** PostgreSQL 
+- **Deployment:** Railway
 
 ## 📦 Installation  
 
