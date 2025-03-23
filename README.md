@@ -29,12 +29,17 @@ BloodBond is a life-saving platform that connects blood donors with those in urg
 ```sh
 git clone https://github.com/yourusername/BloodBond.git
 cd BloodBond
-2️⃣ Install dependencies
+---
+
+###2️⃣ Install dependencies
 sh
 Copy
 Edit
 npm install
-3️⃣ Set up environment variables
+
+---
+
+###3️⃣ Set up environment variables
 Create a .env file and add your MongoDB connection string:
 
 env
@@ -42,6 +47,8 @@ Copy
 Edit
 MONGODB_URI=your-mongodb-connection-string
 PORT=3000
+---
+
 4️⃣ Start the server
 sh
 Copy
