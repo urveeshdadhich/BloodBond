@@ -1,4 +1,4 @@
-# 🧨 BloodBond – Find & Connect with Life-Saving Blood Donors  
+# 🩸 BloodBond – Find & Connect with Life-Saving Blood Donors  
 
 BloodBond is a life-saving platform that connects blood donors with those in urgent need. It allows users to register as donors, search for donors based on blood group and location, and seamlessly coordinate donations. Built with **Node.js, Express, MongoDB, and React**, BloodBond ensures a smooth and reliable experience.  
 
