@@ -31,7 +31,7 @@ npm install
 ### 3️⃣ Set up environment variables  
 Create a `.env` file and add your MongoDB connection string:  
 ```env
-MONGODB_URI=your-mongodb-connection-string
+DATABASE_URL=your-postgresql-connection-string
 PORT=3000
 ```
 
