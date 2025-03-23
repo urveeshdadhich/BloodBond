@@ -40,8 +40,9 @@ PORT=3000
 npm start
 ```
 
-### 5️⃣ Access the app  
-Open [http://localhost:3000](http://localhost:3000) in your browser.  
+## 📡 Live Deployment  
+You can access the deployed version here: [BloodBond Live](https://bloodbond-production.up.railway.app/)  
+
 
 ## 🎯 Contribution  
 We welcome contributions! Feel free to fork the repo, create a feature branch, and submit a pull request.  
